@@ -62,11 +62,11 @@ Experiência prática no desenvolvimento, documentação, correção e melhoria 
 - Boas práticas de Git e GitHub
 - Arquitetura de automações com n8n
 
-## Estatísticas
+## Em evolução
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurp1910&show_icons=true&theme=github_dark&hide_border=true)
+Estou utilizando o GitHub para organizar meus estudos, projetos acadêmicos e aplicações práticas voltadas para desenvolvimento de software, automação de processos e integrações com APIs.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurp1910&layout=compact&theme=github_dark&hide_border=true)
+Atualmente, meu foco está em melhorar a qualidade dos meus repositórios, documentar melhor meus projetos e publicar soluções que representem minha evolução como desenvolvedor.
 
 ## Contato
 
