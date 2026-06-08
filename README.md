@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./terminal.svg" alt="Banner de perfil de Paulo Arthur" width="100%" />
+  <img src="https://raw.githubusercontent.com/arthurp1910/arthurp1910/main/terminal.svg" alt="Banner de perfil de Paulo Arthur" width="100%" />
 </div>
 
 <div align="center">
