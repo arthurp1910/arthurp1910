@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arthurp1910/arthurp1910/main/terminal.svg" alt="Banner de perfil de Paulo Arthur" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0D1117&text=PAULO%20ARTHUR&fontColor=F472B6&fontSize=64&fontAlign=30&fontAlignY=42&desc=Software%20Development%20%E2%80%A2%20Automation%20%E2%80%A2%20APIs%20%E2%80%A2%20Databases&descAlign=37&descAlignY=60&stroke=38BDF8&strokeWidth=2" alt="Banner de perfil de Paulo Arthur" width="100%" />
 </div>
 
 <div align="center">
