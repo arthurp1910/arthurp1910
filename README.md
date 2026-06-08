@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0D1117&text=PAULO%20ARTHUR&fontColor=F472B6&fontSize=64&fontAlign=30&fontAlignY=42&desc=Software%20Development%20%E2%80%A2%20Automation%20%E2%80%A2%20APIs%20%E2%80%A2%20Databases&descAlign=37&descAlignY=60&stroke=38BDF8&strokeWidth=2" alt="Banner de perfil de Paulo Arthur" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0D1117&text=PAULO%20ARTHUR&fontColor=1D4ED8&fontSize=64&fontAlign=30&fontAlignY=42&desc=Software%20Development%20%E2%80%A2%20Automation%20%E2%80%A2%20APIs%20%E2%80%A2%20Databases&descAlign=37&descAlignY=60&descColor=94A3B8&stroke=1D4ED8&strokeWidth=2" alt="Banner de perfil de Paulo Arthur" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://portfolio-arthur-ten.vercel.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/arthurp1910">
+    <img src="https://img.shields.io/badge/GITHUB-0B2545?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/arthur-lemes-58b69926a">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
